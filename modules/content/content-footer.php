@@ -1,0 +1,1 @@
+<?php echo apply_filters( 'indusri_footer_get_template_part', indusri_get_template_part( 'footer', 'templates/footer', '', array() ) ); ?>

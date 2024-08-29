@@ -1,0 +1,22 @@
+
+/*--------------------------------------------------------------*/
+    /* #region - Thumb IconsGroup Style */
+/*--------------------------------------------------------------*/
+
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons .wc_inline_buttons .wc_btn_inline { margin: 5px; }
+
+
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons a:not(:hover),
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons a.button:not(:hover),
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons button:not(:hover),
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons button.button:not(:hover),
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons .button:not(:hover) { background-color: var(--wdtBodyBGColor); -webkit-box-shadow: 0 0px 20px rgba(var(--wdtHeadAltColorRgb),0.05); box-shadow: 0 0px 20px rgba(var(--wdtHeadAltColorRgb),0.05); }
+
+
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons a:not(:hover),
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons a.button:not(:hover),
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons button:not(:hover),
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons button.button:not(:hover),
+    .woocommerce ul.products[class*="product-thumb-iconsgroup-style-bgfill"] li.product .product-thumb .product-buttons-wrapper.product-icons .button:not(:hover) { color: rgba(var(--wdtHeadAltColorRgb),1); }
+
+/* #endregion - Thumb IconsGroup Style */

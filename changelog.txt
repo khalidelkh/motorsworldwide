@@ -1,0 +1,24 @@
+*** Indusri WordPress Theme Changelog ***
+
+Version 1.0.4
+
+    * Additional demo page with demo content updated
+    * Compatible :Latest Elementor version
+    * Compatible :Latest WordPress version
+
+Version 1.0.3
+
+    * Unyson plugin source updated
+
+Version 1.0.2
+
+    * Updated: RTL demo with unyson dummy demo content
+    * Updated: All demo content updated in external space
+
+Version 1.0.1
+
+    * Demo content added
+
+Version 1.0.0
+
+    * First release!
